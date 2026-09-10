@@ -131,9 +131,11 @@ const skillGroups = [
 ];
 
 const achievements = [
+  ["1st Rank", "Computer Science Department", "Second Year B.Sc. Computer Science · 2024–2025"],
+  ["1st Rank", "Computer Science Department", "Third Year B.Sc. Computer Science · 2025–2026"],
+  ["3rd Rank", "Computer Science Department", "First Year B.Sc. Computer Science · 2023–2024"],
   ["Winner", "Origin 2024", "Thakur College of Science & Commerce"],
-  ["1st Rank", "2nd & 3rd Year", "B.Sc. Computer Science"],
-  ["Finalist", "20th Avishkar Research Convention", "Consolation Prize"],
+  ["Consolation Prize", "20th Avishkar Research Convention" ],
 ];
 
 function App() {
