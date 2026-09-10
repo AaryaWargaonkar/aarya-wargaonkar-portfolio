@@ -821,6 +821,10 @@ h1 em {
   min-height: 210px;
   background: #2d425b;
 }
+.achievement-card strong {
+  font-size: 100px;
+  font-weight: 800;
+}
 
 .achievement-card svg {
   color: #d8b27b;
@@ -828,9 +832,10 @@ h1 em {
 }
 
 .achievement-card span {
-  font: 9px 'DM Mono', monospace;
+  font: 20px 'DM Mono', monospace;
   text-transform: uppercase;
   color: #aebbc8;
+  font-weight: 800;
 }
 
 .achievement-card h3 {
